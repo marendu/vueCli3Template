@@ -1,4 +1,4 @@
-# wbx-website
+# vueCli3Template
 
 ## Project setup
 ```
