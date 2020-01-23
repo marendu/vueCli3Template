@@ -1,0 +1,44 @@
+{
+  "id": "1596012",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4483009",
+      "name": "折叠-展开-列表",
+      "font_class": "zhankai",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8106209",
+      "name": "bluetooth off",
+      "font_class": "bluetoothoff",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "8106210",
+      "name": "bluetoothon",
+      "font_class": "bluetoothon",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "8106211",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "11548146",
+      "name": "折叠-展开-列表",
+      "font_class": "zhedie-zhankai-liebiao",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
